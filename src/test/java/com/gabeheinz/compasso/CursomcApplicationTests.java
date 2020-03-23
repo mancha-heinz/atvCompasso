@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc;
+package com.gabeheinz.compasso;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
